@@ -25,13 +25,13 @@ pip install -r requirements.txt
 ```
 Set your variables in `/.env` file.
 
-### Runing backend
+### Backend
 ```bash
 cd backend
 cd src
 python main.py
 ```
-### Runing backend
+### Frontend
 ```bash
 cd frontend
 npm install   # only the first time
